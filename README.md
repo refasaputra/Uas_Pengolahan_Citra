@@ -1,9 +1,9 @@
 # UAS - Pengolahan Citra
 
 Kelompok: 
-- Arie Miftah Budiman  | 312210350
-+ Moh. Restu Nur Rizki | 312210496
-* Ridwan Ahri          | 312210647
+- Muhammad Refa Saputra     | 312210673
+- Rafi Suswidia             | 312210331
+- Rifa Andiani Meilawati Y  | 312210377
 
 ### Penjelasan Algoritme K-means Clustering untuk Segmentasi Gambar
 
@@ -100,4 +100,3 @@ print("Distribusi label:\n", dict(zip(unique_labels, counts)))
 Dan begitulah! Dengan langkah-langkah ini, kita berhasil mengelompokkan warna dalam gambar helm menjadi tiga kelompok utama, menyederhanakan gambar, dan melihat hasilnya dalam bentuk visual.
 
 ## Output
-![](images/Output.png)
